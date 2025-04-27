@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "alternative_earlygame:raw_copper_shard"
+  },
+  "result": "alternative_earlygame:copper_nugget"
+}

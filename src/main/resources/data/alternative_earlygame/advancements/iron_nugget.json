@@ -1,0 +1,41 @@
+{
+  "parent": "alternative_earlygame:iron_shard",
+  "criteria": {
+    "iron_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:iron_nugget"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alternative_earlygame.iron_nugget.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:iron_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.iron_nugget.title"
+    }
+  },
+  "requirements": [
+    [
+      "iron_nugget"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "alternative_earlygame:reinforced_clay_ball"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "alternative_earlygame:campfire",
+  "criteria": {
+    "iron_shard": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["alternative_earlygame:raw_iron_shard"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alternative_earlygame.iron_shard.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "alternative_earlygame:raw_iron_shard"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.iron_shard.title"
+    }
+  },
+  "requirements": [
+    [
+      "iron_shard"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

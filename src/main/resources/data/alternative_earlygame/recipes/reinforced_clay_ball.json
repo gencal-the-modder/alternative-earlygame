@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "N": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "pattern": [
+    "NCN",
+    "CNC",
+    "NCN"
+  ],
+  "result": {
+    "item": "alternative_earlygame:reinforced_clay_ball",
+    "count": 4
+  },
+  "show_notification": true
+}

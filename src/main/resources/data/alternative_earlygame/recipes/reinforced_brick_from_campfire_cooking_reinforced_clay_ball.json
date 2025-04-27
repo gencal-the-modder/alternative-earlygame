@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "alternative_earlygame:reinforced_clay_ball"
+  },
+  "result": "alternative_earlygame:reinforced_brick"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "alternative_earlygame:reinforced_brick"
+    }
+  },
+  "pattern": [
+    "BB",
+    "BB"
+  ],
+  "result": {
+    "item": "alternative_earlygame:reinforced_bricks",
+    "count": 4
+  },
+  "show_notification": true
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "alternative_earlygame:reinforced_clay",
+  "criteria": {
+    "reinforced_brick": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["alternative_earlygame:reinforced_brick"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alternative_earlygame.reinforced_brick.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "alternative_earlygame:reinforced_brick"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.reinforced_brick.title"
+    }
+  },
+  "requirements": [
+    [
+      "reinforced_brick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft_furnace"
+    ]
+  },
+  "sends_telemetry_event": false
+}

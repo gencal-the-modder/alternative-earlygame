@@ -1,0 +1,36 @@
+{
+  "parent": "alternative_earlygame:iron_nugget",
+  "criteria": {
+    "reinforced_clay": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["alternative_earlygame:reinforced_clay_ball"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alternative_earlygame.reinforced_clay.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "alternative_earlygame:reinforced_clay_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.reinforced_clay.title"
+    }
+  },
+  "requirements": [
+    [
+      "reinforced_clay"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

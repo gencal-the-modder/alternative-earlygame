@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "alternative_earlygame:block/reinforced_bricks"
+    }
+  }
+}

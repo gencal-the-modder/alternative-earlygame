@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alternative_earlygame:crushing_hammer"
+    },
+    {
+      "tag": "forge:ores/iron"
+    }
+  ],
+  "result": {
+    "item": "alternative_earlygame:raw_iron_shard",
+    "count": 3
+  }
+}

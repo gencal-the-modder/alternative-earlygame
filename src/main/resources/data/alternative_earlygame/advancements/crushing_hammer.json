@@ -1,0 +1,41 @@
+{
+  "parent": "alternative_earlygame:beginnings",
+  "criteria": {
+    "crushing_hammer": {
+      "conditions": {
+        "items": [
+          {
+            "items": [ "alternative_earlygame:crushing_hammer" ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.alternative_earlygame.crushing_hammer.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "alternative_earlygame:crushing_hammer"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.crushing_hammer.title"
+    }
+  },
+  "requirements": [
+    [
+      "crushing_hammer"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:campfire"
+    ]
+  },
+  "sends_telemetry_event": true
+}

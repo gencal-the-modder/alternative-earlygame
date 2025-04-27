@@ -1,0 +1,30 @@
+{
+  "creativetab.alternative_earlygame_tab": "Alternative Earlygame",
+
+  "item.alternative_earlygame.crushing_hammer": "Crushing Hammer",
+  "item.alternative_earlygame.raw_copper_shard": "Raw Copper Shard",
+  "item.alternative_earlygame.raw_iron_shard": "Raw Iron Shard",
+  "item.alternative_earlygame.raw_gold_shard": "Raw Gold Shard",
+  "item.alternative_earlygame.copper_nugget": "Copper Nugget",
+  "item.alternative_earlygame.reinforced_clay_ball": "Reinforced Clay Ball",
+  "item.alternative_earlygame.reinforced_brick": "Reinforced Brick",
+  "block.alternative_earlygame.reinforced_bricks": "Reinforced Bricks Block",
+
+  "advancements.alternative_earlygame.beginnings.description": "Start your game as normal, for now. You can find all recipes in Recipe Book.",
+  "advancements.alternative_earlygame.beginnings.title": "Alternative Earlygame",
+  "advancements.alternative_earlygame.iron_nugget.description": "Smelt Iron Shard on a campfire to get Iron Nugget",
+  "advancements.alternative_earlygame.iron_nugget.title": "Obtain Iron Nugget",
+  "advancements.alternative_earlygame.crushing_hammer.description": "Craft Crushing Hammer using sticks and cobblestone",
+  "advancements.alternative_earlygame.crushing_hammer.title": "Hammer Time!",
+  "advancements.alternative_earlygame.furnace.description": "Finally, craft the Furnace as you would do with cobblestone, but using Reinforced Bricks",
+  "advancements.alternative_earlygame.furnace.title": "Finally - a Furnace!",
+  "advancements.alternative_earlygame.reinforced_brick.description": "Cook Reinforced Clay on campfire to get Reinforced Bricks",
+  "advancements.alternative_earlygame.reinforced_brick.title": "Obtain Reinforced Bricks",
+  "advancements.alternative_earlygame.reinforced_clay.description": "Craft Reinforced Clay on Crafting Table using Iron Nuggets and regular Clay",
+  "advancements.alternative_earlygame.reinforced_clay.title": "Obtain Reinforced Clay",
+  "advancements.alternative_earlygame.campfire.description": "Craft a Campfire, using Logs, Sticks and Coal - it will come handy later",
+  "advancements.alternative_earlygame.campfire.title": "Alternative camping",
+  "advancements.alternative_earlygame.iron_shard.description": "Crush Raw Iron using Crushing Hammer (combine them in crafting grid) to get Iron Shards",
+  "advancements.alternative_earlygame.iron_shard.title": "Obtain Iron Shards"
+
+}

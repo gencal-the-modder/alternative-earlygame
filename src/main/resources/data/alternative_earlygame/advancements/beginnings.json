@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "beginnings": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "alternative_earlygame:textures/block/reinforced_bricks.png",
+    "description": {
+      "translate": "advancements.alternative_earlygame.beginnings.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:dirt"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.alternative_earlygame.beginnings.title"
+    }
+  },
+  "requirements": [
+    [
+      "beginnings"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "alternative_earlygame:crushing_hammer"
+    ]
+  },
+  "sends_telemetry_event": true
+}

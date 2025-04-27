@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alternative_earlygame:crushing_hammer"
+    },
+    {
+      "tag": "forge:raw_materials/gold"
+    }
+  ],
+  "result": {
+    "item": "alternative_earlygame:raw_gold_shard",
+    "count": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "alternative_earlygame:crushing_hammer",
+  "criteria": {
+    "campfire": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:campfire"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alternative_earlygame.campfire.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:campfire"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alternative_earlygame.campfire.title"
+    }
+  },
+  "requirements": [
+    [
+      "campfire"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "alternative_earlygame:iron_shards_from_raw_iron"
+    ]
+  },
+  "sends_telemetry_event": false
+}
